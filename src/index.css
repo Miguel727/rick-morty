@@ -12,6 +12,12 @@ body {
   font-family: fantasy, sans-serif;
   margin-bottom: 0;
 }
+.nombre{
+  color: #6ca0a7;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  margin-bottom: 0;
+}
 
 .img-home {
   width: 500px;

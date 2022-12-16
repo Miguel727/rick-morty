@@ -33,6 +33,7 @@ function App() {
             </button>
           </>
         )}
+        <h3 className="nombre">Miguel Sosa</h3>
       </header>
     </div>
   );
